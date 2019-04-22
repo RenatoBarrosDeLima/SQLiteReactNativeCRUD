@@ -53,7 +53,7 @@ export default class HomeScreen extends React.Component {
           customClick={() => this.props.navigation.navigate('ViewAll')}
         />
         <Mybutton
-          title="Deleter"
+          title="Deletar"
           customClick={() => this.props.navigation.navigate('Delete')}
         />
       </View>

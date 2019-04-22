@@ -1,4 +1,3 @@
-/*Screen to update the user*/
 import React from 'react';
 import { View, YellowBox, ScrollView, KeyboardAvoidingView, Alert, } from 'react-native';
 import Mytextinput from './components/Mytextinput';

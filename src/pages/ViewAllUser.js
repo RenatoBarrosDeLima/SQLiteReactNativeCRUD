@@ -1,4 +1,3 @@
-/*Screen to view all the user*/
 import React from 'react';
 import { FlatList, Text, View } from 'react-native';
 import { openDatabase } from 'react-native-sqlite-storage';

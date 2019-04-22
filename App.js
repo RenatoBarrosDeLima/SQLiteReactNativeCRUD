@@ -1,8 +1,4 @@
-/*Example of SQLite Database in React Native*/
 import React from 'react';
-//In Version 2+
-//import {createStackNavigator} from 'react-navigation';
-//In Version 3+
 import {createStackNavigator,createAppContainer} from 'react-navigation';
 import HomeScreen from './src/pages/HomeScreen';
 import RegisterUser from './src/pages/RegisterUser';
@@ -61,7 +57,5 @@ const App = createStackNavigator({
     },
   },
 });
-//For React Navigation Version 2+
-//export default App;
-//For React Navigation Version 3+
+
 export default createAppContainer(App);

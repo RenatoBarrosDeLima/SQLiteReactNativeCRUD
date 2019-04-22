@@ -1,4 +1,3 @@
-/*Screen to delete the user*/
 import React from 'react';
 import { Button, Text, View, Alert } from 'react-native';
 import Mytextinput from './components/Mytextinput';

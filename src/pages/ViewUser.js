@@ -1,4 +1,3 @@
-/*Screen to view single user*/
 import React from 'react';
 import { Text, View, Button } from 'react-native';
 import Mytextinput from './components/Mytextinput';
